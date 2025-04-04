@@ -11,6 +11,7 @@ from students;
 
 INSERT INTO students (name, year, major) VALUES
 ('Ava Smith', 1, 'Biology'),
+
 ('Lin Wong', 3, 'Biology'),
 ('Sam Mitchell', 2, 'History'),
 ('Nora Hansen', 4, 'Biology');
